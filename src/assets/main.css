@@ -1,0 +1,13 @@
+@font-face {
+  font-family: 'InterRegular';
+  src: url('./Inter-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+body {
+  margin: -5px;
+  overflow: hidden;
+  background-color: #212121;
+  font-family: 'InterRegular';
+}
